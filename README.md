@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 
 <p align="center"> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) </p>
 
+
+<p align="center">![kmsbio's GitHub stats](https://github-readme-stats.vercel.app/api?username=JONHYOJIN)</p>
+<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JONHYOJIN)</p>
+
