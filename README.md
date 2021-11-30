@@ -16,12 +16,9 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=👋🏻JONHYOJIN&fontSize=90)
 
-<div align=center>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJONHYOJIN&count_bg=%2339B7CD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://hits.seeyoufarm.com)
-</div>
+<p align="center">[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJONHYOJIN&count_bg=%2339B7CD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://hits.seeyoufarm.com)</p>
 
-<div align=center>
-## 💻 Tech 🐣
-[![JS](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black)](github.com/JONHYOJIN)
-</div>
+<p align="center">💻 Tech 🐣</p>
+
+<p align="center">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)</p>
 
