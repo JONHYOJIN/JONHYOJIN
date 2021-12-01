@@ -8,9 +8,9 @@
 
 <p align="center">!https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white</p>
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JONHYOJIN)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JONHYOJIN&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">![JONHYOJIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=JONHYOJIN&show_icons=true&theme=radical)</p>
-<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JONHYOJIN)</p>
 
 
 
