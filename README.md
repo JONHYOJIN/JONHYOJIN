@@ -6,7 +6,7 @@
 
 <p align="center">💻 Tech 🐣</p>
 
-<p align="center">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)</p>
+<p align="center">!(https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)</p>
 
 
 <p align="center">![JONHYOJIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=JONHYOJIN&show_icons=true&theme=radical)</p>
